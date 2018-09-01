@@ -1,0 +1,8 @@
+Testing your Medical Document Retrieval project
+
+If you aren't already, you should soon be working on your project. As a bit of a sanity check, we have provided a few simple tests to run against your functions. They do not thoroughly test your code and you should thoroughly test your code. If you've already done that and you've already submitted your code and are convinced that it is working perfectly, then you can ignore this new test file.
+
+But, if you haven't submitted yet, you should copy these tests into your query.py program and run them. Then you should remove them and instead paste in the resulting test output. Put it in comments so that Python doesn't interpret this output as statements to execute. This is the same process that you have done (or will do soon) for testing read_in_symptoms in E3. Using these standard tests will confirm for you and for the marker that you haven't completely misinterpreted the description of one of the required functions.
+
+
+Click here to view. Search or link to this question with @14. 
